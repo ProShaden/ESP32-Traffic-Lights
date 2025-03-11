@@ -14,7 +14,7 @@ This repository shows traffic lights using esp32.
 ![connection](https://github.com/user-attachments/assets/b7a6daff-a1d5-4915-b198-4a36c188b258)
 
 # Code
-
+```
 #define RED_LED 16
 
 #define GREEN_LED 17
@@ -50,6 +50,7 @@ delay(1000);
 
 digitalWrite(YELLOW_LED , LOW);
 }
+```
 
 # Simulation Running 
 
